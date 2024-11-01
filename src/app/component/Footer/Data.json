@@ -1,0 +1,18 @@
+{
+  "address": "Divine Gym, C -54 Rajpur Khurd extension chattarpur, New Delhi 110068",
+  "socialLinks": [
+    { "url": "https://facebook.com", "icon": "facebook" },
+    { "url": "https://instagram.com", "icon": "instagram" },
+    { "url": "mailto:info@divinegym.com", "icon": "email" }
+  ],
+  "copyright": "© 2035 by Onyx. Powered and secured by Wix",
+  "formInfo": {
+    "description": "Fill out the form below and a sales rep will get in touch shortly."
+  },
+  "navLinks": [
+    { "href": "/", "label": "Home" },
+    { "href": "/about", "label": "About" },
+    { "href": "/facility", "label": "Facility" },
+    { "href": "/community", "label": "Community" }
+  ]
+}

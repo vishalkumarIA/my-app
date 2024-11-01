@@ -1,0 +1,40 @@
+.threeTiles {
+  float: left;
+  background: #eaad21;
+  color: #fff;
+  padding: 3rem 0 2rem;
+  width: 100%;
+  margin-top: 60px;
+}
+.threeTiles .threeTilesWrapp {
+  width: 100%;
+  float: left;
+}
+.threeTilesWrapp .tilesContent {
+  text-align: center;
+  padding: 0 30% 2%;
+}
+.threeTilesWrapp .tilesContent h2 {
+  font-size: 2rem;
+  margin-bottom: 10px;
+}
+.threeTilesWrapp .tilesContent p {
+  margin-top: 20px;
+}
+.threeTilesWrapp .tilesPicture .slideForMob {
+  display: flex;
+  align-items: center;
+}
+.threeTilesWrapp .tilesPicture .imgTile {
+  overflow: hidden;
+}
+.threeTilesWrapp .tilesPicture .imgTile img {
+  width: 100%;
+  transition: all 0.5s;
+}
+.threeTilesWrapp .tilesPicture .imgTile img:hover {
+  transform: scale(1.1);
+}
+.threeTilesWrapp .tilesPicture .imgTile:nth-child(2) {
+  margin: 0 20px;
+}

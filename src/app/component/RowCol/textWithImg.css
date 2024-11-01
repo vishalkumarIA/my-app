@@ -1,0 +1,31 @@
+.rowTextImg {
+  width: 100%;
+  margin-top: 60px;
+  float: left;
+}
+.rowTextImg img {
+  width: 100%;
+}
+.rowTextImg h2 {
+  font-size: 2rem;
+  font-weight: 600;
+  color: #606161;
+  margin-bottom: 20px;
+}
+.rowTextImg p {
+  font-size: 1.2rem;
+  line-height: 150%;
+}
+.rowTextImg a {
+  border: 1px solid #eaad21;
+  padding: 1rem 2rem;
+  font-size: 1rem;
+  border-radius: 30px;
+  transition: 0.2s linear;
+  display: inline-block;
+  margin-top: 30px;
+}
+.rowTextImg a:hover {
+  background: #eaad21;
+  color: #fff;
+}

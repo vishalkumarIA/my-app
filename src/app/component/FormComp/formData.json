@@ -1,0 +1,31 @@
+{
+  "fields": [
+    {
+      "name": "name",
+      "label": "Name",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "phone",
+      "label": "Phone Number",
+      "type": "tel",
+      "required": true
+    },
+    {
+      "name": "email",
+      "label": "Email",
+      "type": "email",
+      "required": true
+    },
+    {
+      "name": "message",
+      "label": "Message",
+      "type": "textarea",
+      "required": true
+    }
+  ],
+  "submitLabel": "Submit",
+  "thankYouMessage": "Thank You for Contacting Us!",
+  "thankYouDescription": "We'll get back to you as soon as possible."
+}

@@ -1,0 +1,48 @@
+img {
+  max-width: 100%;
+}
+.container {
+  width: 98%;
+  margin: 0 auto;
+}
+header {
+  width: 100%;
+  float: left;
+  position: fixed;
+  top: 0;
+  left: 0;
+  background: #fff;
+  z-index: 9;
+}
+header .headerWrapp {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  box-shadow: 0 3px 37px -14px #eaad21;
+}
+header .headerWrapp .logoWrapp {
+  width: 100px;
+  padding: 0px 0px 0px 20px;
+}
+
+header .headerWrapp .navLink {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0;
+}
+header .headerWrapp .navLink li {
+  font-size: 1.2rem;
+  margin: 0 2rem;
+  line-height: 100%;
+}
+.navLink li.active {
+  color: #eaad21;
+}
+header .headerWrapp .joinWrapp {
+  max-width: 200px;
+  padding: 2rem;
+  font-size: 1.2rem;
+  background-color: #eaad21;
+}

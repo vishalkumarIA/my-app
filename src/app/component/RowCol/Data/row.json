@@ -1,0 +1,20 @@
+{
+  "rowData": [
+    {
+      "id": 1,
+      "imageUrl": "images/fac-4.jpg",
+      "title": "The Divine Experience",
+      "description": "Step into The Divine Experience, where fitness transcends the ordinary and becomes a transformative journey of body, mind, and spirit. Our gym is not just a place to work out; it's a sanctuary where you can rejuvenate, strengthen, and find balance in every aspect of your life.",
+      "linkUrl": "javascript:;",
+      "linkText": "Learn More"
+    },
+    {
+      "id": 2,
+      "imageUrl": "images/thumb2.jpg",
+      "title": "Fitness is for Everyone",
+      "description": "We believe that health and wellness are for all—regardless of age, fitness level, or life stage. Our gym is designed to embrace and support every individual, including expecting mothers who are seeking a safe and nurturing environment to stay active.",
+      "linkUrl": "javascript:;",
+      "linkText": "Learn More"
+    }
+  ]
+}

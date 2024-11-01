@@ -1,0 +1,50 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
+h1,
+h2 {
+  font-size: 2rem;
+}
+.container {
+  max-width: 93%;
+  margin: 0 auto;
+}
+.introWrapp {
+  margin-top: 30px;
+  float: left;
+  width: 100%;
+}
+h1 {
+  font-size: 2rem;
+}
+.row {
+  width: 100%;
+}
+.col-md-6 {
+  width: 50%;
+}
+:root {
+  --swiper-theme-color: #fff !important;
+}
+.accordion-container {
+  width: 100%;
+  float: left;
+  margin-top: 60px;
+}
+.accordion {
+  max-width: 100%;
+  margin-top: 30px;
+}
+#lightbox-content {
+  width: 50%;
+}
+textarea {
+  width: 100%;
+  resize: none;
+}

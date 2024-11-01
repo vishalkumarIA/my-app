@@ -1,0 +1,76 @@
+{
+  "sections": [
+    {
+      "section": {
+        "className": "threeTiles",
+        "wrapper": {
+          "className": "threeTilesWrapp",
+          "content": {
+            "className": "tilesContent",
+            "heading": "Top Notch Facilities",
+            "paragraph": "We redefine what it means to train in a premium environment. Our gym is equipped with state-of-the-art machines, luxurious amenities, and innovative spaces designed to inspire peak performance and comfort."
+          },
+          "pictures": {
+            "className": "tilesPicture",
+            "slideForMob": {
+              "className": "slideForMob",
+              "imgTiles": [
+                {
+                  "className": "imgTile",
+                  "imageSrc": "/images/fac-1.jpg",
+                  "altText": "Service Image 1"
+                },
+                {
+                  "className": "imgTile",
+                  "imageSrc": "/images/fac-2.jpg",
+                  "altText": "Service Image 2"
+                },
+                {
+                  "className": "imgTile",
+                  "imageSrc": "/images/fac-4.jpg",
+                  "altText": "Service Image 3"
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "section": {
+        "className": "threeTiles",
+        "wrapper": {
+          "className": "threeTilesWrapp",
+          "content": {
+            "className": "tilesContent",
+            "heading": "Divine Community",
+            "paragraph": "Our Divine Community fosters motivation and support by organizing outdoor activities and in-house competitions, helping members connect and stay inspired. Outdoor events like group hikes or boot camps offer a fun, refreshing change from regular workouts, while in-house competitions provide friendly rivalry and benchmarks for personal progress. These initiatives not only boost camaraderie but also encourage members to push their limits, compare results, and celebrate achievements, making the gym a dynamic space for both fitness and personal growth."
+          },
+          "pictures": {
+            "className": "tilesPicture",
+            "slideForMob": {
+              "className": "slideForMob",
+              "imgTiles": [
+                {
+                  "className": "imgTile",
+                  "imageSrc": "/images/fac-1.jpg",
+                  "altText": "Project Image 1"
+                },
+                {
+                  "className": "imgTile",
+                  "imageSrc": "/images/fac-2.jpg",
+                  "altText": "Project Image 2"
+                },
+                {
+                  "className": "imgTile",
+                  "imageSrc": "/images/fac-4.jpg",
+                  "altText": "Project Image 3"
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  ]
+}

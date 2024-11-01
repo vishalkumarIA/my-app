@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "imageUrl": "images/banner1.jpg",
+    "caption": "Welcome to Our Gym"
+  },
+  {
+    "id": 2,
+    "imageUrl": "images/banner2.jpg",
+    "caption": "Join Us for a Healthier Life"
+  }
+]

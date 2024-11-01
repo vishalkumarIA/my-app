@@ -1,0 +1,76 @@
+footer {
+  float: left;
+  width: 100%;
+  padding: 2rem 0;
+}
+.addressCol {
+  width: 15%;
+  float: left;
+}
+.addressCol .addressRow {
+  margin-top: 20px;
+}
+.addressCol .social-link ul {
+  display: flex;
+  align-items: baseline;
+}
+.addressCol .social-link ul li {
+  color: #000;
+  font-size: 1.5rem;
+  margin-right: 1rem;
+}
+.formCol {
+  width: 50%;
+  float: left;
+  margin: 20px 10%;
+  text-align: center;
+}
+.formCol p {
+  text-align: center;
+  margin-bottom: 20px;
+}
+.formCol .formWrapp {
+  width: 100%;
+}
+.formCol .formWrapp form {
+  width: 100%;
+}
+.formCol .formWrapp form .formRow {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-items: center;
+}
+.formCol .formWrapp form .formRow .width50,
+.formCol .formWrapp form .formRow .width100 {
+  padding: 10px;
+}
+.width50 {
+  width: 50%;
+}
+.width100 {
+  width: 100%;
+}
+textarea {
+  resize: none;
+  min-height: 60px;
+}
+.formCol .formWrapp form .formRow input,
+textarea {
+  width: 100%;
+  padding: 10px 5px;
+  border: 1px solid;
+}
+.footerNav {
+  width: 10%;
+  float: left;
+  margin-top: 20px;
+  margin-left: 5%;
+}
+.footerNav p {
+  margin-bottom: 20px;
+  font-family: "poppinsbold";
+}
+.footerNav ul li {
+  margin-bottom: 15px;
+}
