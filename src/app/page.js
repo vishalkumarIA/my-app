@@ -1,5 +1,5 @@
 import AccordionComp from "./component/Accordion";
-import Myheader from "./component/header/Header";
+import Myheader from "./component/header/header";
 import Mybanner from "./component/Banner/BannerComp";
 import IntroCompWithHead from "./component/IntroCompWithHeader";
 import TextWithImgComp from "./component/RowCol/TextWithImg";
