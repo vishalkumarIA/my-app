@@ -6,7 +6,7 @@ import "swiper/css";
 import "swiper/css/pagination";
 import "swiper/css/navigation";
 import "./banner.css";
-import bannersData from "./data/banners.json";
+import bannersData from "./banners.json";
 import Image from "next/image";
 
 export default function MyBanner() {
